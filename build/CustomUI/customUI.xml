@@ -1,0 +1,14 @@
+<customUI xmlns="http://schemas.microsoft.com/office/2006/01/customui">
+  <ribbon>
+    <tabs>
+      <tab id="Highlight" label="Highlight" insertBeforeMso="TabInsert">
+        <group id="Codes" label="Codes">
+          <button id="Python" visible="true" size="large" label="Python" screentip="Highlight Python code" onAction="ApplyPythonSyntaxHighlight" image="Python" />
+          <button id="Powershell" visible="true" size="large" label="Powershell" screentip="Highlight Powershell code" onAction="ApplyShellSyntaxHighlight" image="Powershell"/>
+          <button id="Html" visible="true" size="large" label="Html" screentip="Highlight Html code" onAction="ApplyHtmlSyntaxHighlight" image="Html"/>
+          <button id="Other" visible="true" size="large" label="Other" screentip="Select code" onAction="ApplyCustomSyntaxHighlight" image="Other"/>
+        </group>
+      </tab>
+    </tabs>
+  </ribbon>
+</customUI> 
