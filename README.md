@@ -4,7 +4,7 @@ Custom-built Syntax Highlight tool for Word Documents
 
 # Demo
 
-![](assets/demo.mov)
+https://github.com/user-attachments/assets/2ad64c02-3493-4cb9-bcd5-372a5db566e9
 
 # Install
 
