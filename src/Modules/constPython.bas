@@ -1,4 +1,6 @@
 Attribute VB_Name = "constPython"
+'@lang VBA
+
 Public Sub HighlightPython()
      
     LANGUAGE_ = "Code"

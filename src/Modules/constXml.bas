@@ -1,4 +1,6 @@
 Attribute VB_Name = "constXml"
+'@lang VBA
+
 Public Sub HighlightXml()
      
     LANGUAGE_ = "Markup"

@@ -1,4 +1,6 @@
 Attribute VB_Name = "constC"
+'@lang VBA
+
 Public Sub HighlightC()
      
     LANGUAGE_ = "Code"
