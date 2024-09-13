@@ -1,4 +1,6 @@
 Attribute VB_Name = "constJson"
+'@lang VBA
+
 Public Sub HighlightJson()
      
     LANGUAGE_ = "Code"

@@ -1,4 +1,6 @@
 Attribute VB_Name = "constCPP"
+'@lang VBA
+
 Public Sub HighlightCpp()
      
     LANGUAGE_ = "Code"

@@ -1,4 +1,6 @@
 Attribute VB_Name = "Highlight"
+'@lang VBA
+
 Public LANGUAGE_ As String
 Public COMMENT_LINE_ As String
 Public COMMENT_MULTILINE_START_ As String
